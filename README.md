@@ -16,32 +16,31 @@ Welcome to my skills showcase! 🎉 Below you'll find a breakdown of the languag
 
 ## Languages & Tools 🚀
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <button style="background-color: #FF5733; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">C</button>
-  <button style="background-color: #FF8C00; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">C++</button>
-  <button style="background-color: #1E90FF; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Python</button>
-  <button style="background-color: #28A745; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">JAVA</button>
+  <button style="background-color: #FF5733; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">C, </button>
+  <button style="background-color: #FF8C00; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">C++, </button>
+  <button style="background-color: #1E90FF; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Python, </button>
   <button style="background-color: #FFD700; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">APEX</button>
 </div>
 
 ### 🛠️ **Machine Learning & AI** 🤖
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <button style="background-color: #8A2BE2; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Supervised Learning</button>
-  <button style="background-color: #8B0000; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Unsupervised Learning</button>
-  <button style="background-color: #228B22; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Knowledge Graph</button>
+  <button style="background-color: #8A2BE2; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Supervised Learning, </button>
+  <button style="background-color: #8B0000; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Unsupervised Learning, </button>
+  <button style="background-color: #228B22; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Knowledge Graph, </button>
   <button style="background-color: #DAA520; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Ontology Development</button>
 </div>
 
 ### 💼 **Salesforce** 📊
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <button style="background-color: #FF1493; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">CRM</button>
-  <button style="background-color: #C71585; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Apex</button>
-  <button style="background-color: #DA70D6; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Visualforce</button>
-  <button style="background-color: #8A2BE2; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Salesforce Admin</button>
-  <button style="background-color: #20B2AA; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Salesforce Platform</button>
-  <button style="background-color: #FF6347; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Lightning Web Components</button>
-  <button style="background-color: #1E90FF; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Data Management</button>
-  <button style="background-color: #FFD700; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Integration</button>
-  <button style="background-color: #32CD32; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Reporting</button>
+  <button style="background-color: #FF1493; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">CRM, </button>
+  <button style="background-color: #C71585; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Apex, </button>
+  <button style="background-color: #DA70D6; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Visualforce, </button>
+  <button style="background-color: #8A2BE2; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Salesforce Admin, </button>
+  <button style="background-color: #20B2AA; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Salesforce Platform, </button>
+  <button style="background-color: #FF6347; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Lightning Web Components, </button>
+  <button style="background-color: #1E90FF; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Data Management, </button>
+  <button style="background-color: #FFD700; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Integration, </button>
+  <button style="background-color: #32CD32; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Reporting, </button>
 </div>
 
 ### 🖥️ **IDE & OS** 🌐
