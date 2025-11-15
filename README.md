@@ -40,7 +40,7 @@ Welcome to my skills showcase! 🎉 Below you'll find a breakdown of the languag
   <button style="background-color: #FF6347; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Lightning Web Components, </button>
   <button style="background-color: #1E90FF; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Data Management, </button>
   <button style="background-color: #FFD700; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Integration, </button>
-  <button style="background-color: #32CD32; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Reporting, </button>
+  <button style="background-color: #32CD32; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Reporting </button>
 </div>
 
 ### 🖥️ **IDE & OS** 🌐
