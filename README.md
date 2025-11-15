@@ -46,10 +46,9 @@ Welcome to my skills showcase! 🎉 Below you'll find a breakdown of the languag
 ### 🖥️ **IDE & OS** 🌐
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <button style="background-color: #D2691E; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Visual Studio Code</button>
-  <button style="background-color: #
+</div>
 
-
-## 🚀 My Work Experience
+### 🚀 My Work Experience
 - **Student Research Assistant @ CMPG**
   - 🔗 Knowledge Graphs | 🌍 Digital Twins | 🌦️ Weather Data Integration
 - **Programmer Analyst @ Cognizant**
@@ -57,7 +56,7 @@ Welcome to my skills showcase! 🎉 Below you'll find a breakdown of the languag
 - **Teaching Assistant @ RACE**
   - 🎯 Mentoring Students | 🛠️ Capstone Projects | 📚 Academic Support
 
-## 📚 Notable Projects
+### 📚 Notable Projects
 - 🔥 **Kaiserslautern Digital Twin** — Semantic Data, Ontology Modeling, Real-time Integration
 - 🤖 **Sakhi – Friendly Chatbot** — AI chatbot for depression support
 - 🫁 **Lung Nodule Detection** — Deep Learning Model (96% accuracy)
